@@ -1,7 +1,7 @@
-package main;
+package test;
 
+import main.MainClass;
 import org.junit.Test;
-import test.MainClass;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
