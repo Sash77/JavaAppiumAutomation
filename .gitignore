@@ -30,26 +30,6 @@ target/
 *.ipr
 .idea/
 
-# eclipse project file
-.settings/
-.classpath
-.project
-.eclipse-pmd
-
-# NetBeans specific
-nbproject/private/
-build/
-${buildDir}/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-nb-configuration.xml
-
-
-# OS
-.DS_Store
-
 # Misc
 *.swp
 release.properties
@@ -57,4 +37,5 @@ pom.xml.releaseBackup
 pom.xml.tag
 
 #Output
-out
+out/
+lib/
